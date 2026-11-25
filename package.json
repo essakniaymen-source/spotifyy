@@ -1,0 +1,17 @@
+{
+  "name": "spotify-local-ios",
+  "version": "1.0.0",
+  "description": "Offline local MP3 music player native iOS app wrapper",
+  "private": true,
+  "scripts": {
+    "serve": "npx serve www",
+    "sync": "npx cap sync ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/ios": "^6.2.0"
+  }
+}

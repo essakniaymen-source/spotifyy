@@ -1,0 +1,11 @@
+{
+  "appId": "com.local.spotifyplayer",
+  "appName": "Spotify",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0E0E10",
+    "allowsLinkPreview": false,
+    "scrollEnabled": false
+  }
+}
